@@ -1,4 +1,4 @@
-  {
+{
   "name": "Optimized Economy",
   "short_name": "Optimized Economy",
   "description": "An economic model based on the potential of science",
@@ -26,7 +26,26 @@
       "src": "https://raw.githubusercontent.com/sylwester1975/oe-512-x-152-png/71487e0bc4fe5b01292097d720f29d75e024f934/512x512%20favicon.png",
       "sizes": "512x512",
       "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-pliki-ico/main/oe%2016x16%20favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-pliki-ico/main/oe%2032x32%20favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-pliki-ico/main/oe%2048x48%20favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-pliki-ico/main/oe%20128x128%20favicon.ico",
+      "sizes": "128x128",
+      "type": "image/x-icon"
     }
   ]
 }
-
