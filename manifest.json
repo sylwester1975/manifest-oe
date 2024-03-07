@@ -46,6 +46,26 @@
       "src": "https://raw.githubusercontent.com/sylwester1975/oe-pliki-ico/main/oe%20128x128%20favicon.ico",
       "sizes": "128x128",
       "type": "image/x-icon"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicony-png/88604bd22df5ce7b51232a13548c1095fe0957a6/oe%2016x16%20favicon.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicony-png/88604bd22df5ce7b51232a13548c1095fe0957a6/oe%2032x32%20favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicony-png/88604bd22df5ce7b51232a13548c1095fe0957a6/oe%2048x48%20favicon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicony-png/88604bd22df5ce7b51232a13548c1095fe0957a6/oe%20128x128%20favicon.png",
+      "sizes": "128x128",
+      "type": "image/png"
     }
   ]
 }
