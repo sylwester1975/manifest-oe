@@ -7,98 +7,98 @@
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
-    {
-      "src": "https://raw.githubusercontent.com/sylwester1975/icona-oe/main/favicon.svg",
+   {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20512px%20x%20512px%20svg.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-192x192-favicon/main/192x192%20favicon.svg",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20192px%20x%20192px%20svg.svg",
       "sizes": "192x192",
       "type": "image/svg+xml"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicony-png/88604bd22df5ce7b51232a13548c1095fe0957a6/oe%2016x16%20favicon.png",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2016px%20x%2016px%20png.png",
       "sizes": "16x16",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicony-png/88604bd22df5ce7b51232a13548c1095fe0957a6/oe%2032x32%20favicon.png",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2032px%20x%2032px%20png.png",
       "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicony-png/88604bd22df5ce7b51232a13548c1095fe0957a6/oe%2048x48%20favicon.png",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2048px%20x%2048px%20png.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-nowe-ikony/462025316b8822285a7fbda9643d9da0141ec49c/oe%2064x64%20favicon.png",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2064px%20x%2064px%20png.png",
       "sizes": "64x64",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-nowe-ikony/462025316b8822285a7fbda9643d9da0141ec49c/oe%2096x96%20favicon.png",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2096px%20x%2096px%20png.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicony-png/88604bd22df5ce7b51232a13548c1095fe0957a6/oe%20128x128%20favicon.png",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20128px%20x%20128px%20png.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-192-x-192-png/68b1f9e66a3a0ac01464dc8ccc11203b5f1b181e/192x192%20favicon.png",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20192px%20x%20192px%20png.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-nowe-ikony/462025316b8822285a7fbda9643d9da0141ec49c/oe%20256x256%20favicon.png",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20256px%20x%20256px%20png.png",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-512-x-152-png/71487e0bc4fe5b01292097d720f29d75e024f934/512x512%20favicon.png",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20512px%20x%20512px%20png.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-pliki-ico/main/oe%2016x16%20favicon.ico",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2016px%20x%2016px%20ico.ico",
       "sizes": "16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-pliki-ico/main/oe%2032x32%20favicon.ico",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2032px%20x%2032px%20ico.ico",
       "sizes": "32x32",
       "type": "image/x-icon"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-pliki-ico/main/oe%2048x48%20favicon.ico",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2048px%20x%2048px%20ico.ico",
       "sizes": "48x48",
       "type": "image/x-icon"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-nowe-ikony/462025316b8822285a7fbda9643d9da0141ec49c/oe%2064x64%20favicon.ico",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2064px%20x%2064px%20ico.ico",
       "sizes": "64x64",
       "type": "image/x-icon"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-nowe-ikony/462025316b8822285a7fbda9643d9da0141ec49c/oe%2096x96%20favicon.ico",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2096px%20x%2096px%20ico.ico",
       "sizes": "96x96",
       "type": "image/x-icon"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-pliki-ico/main/oe%20128x128%20favicon.ico",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20128px%20x%20128px%20ico.ico",
       "sizes": "128x128",
       "type": "image/x-icon"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-nowe-ikony/462025316b8822285a7fbda9643d9da0141ec49c/oe%20192x192%20favicon.ico",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20192px%20x%20192px%20ico.ico",
       "sizes": "192x192",
       "type": "image/x-icon"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-nowe-ikony/462025316b8822285a7fbda9643d9da0141ec49c/oe%20256x256%20favicon.ico",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20256px%20x%20256px%20ico.ico",
       "sizes": "256x256",
       "type": "image/x-icon"
     }
