@@ -62,5 +62,9 @@
       "sizes": "180x180",
       "type": "image/png"
     }
-  ]
+  ],
+  "msapplication": {
+    "TileColor": "#ffffff",
+    "TileImage": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20512px%20x%20512px%20svg.svg?raw=true"
+  }
 }
