@@ -7,15 +7,15 @@
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
-   {
+    {
       "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20512px%20x%20512px%20svg.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     },
     {
-      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20192px%20x%20192px%20svg.svg",
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20192px%20x%20192px%20png.png",
       "sizes": "192x192",
-      "type": "image/svg+xml"
+      "type": "image/png"
     },
     {
       "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2016px%20x%2016px%20png.png",
